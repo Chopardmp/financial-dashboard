@@ -51,7 +51,7 @@ This project is a financial dashboard that displays company asset data in a stru
 
 ## 🎥 Demo Video
 
-(Add your video link here)
+- https://drive.google.com/file/d/1z84BsAdsK4TgzyjDy9GNiLRFLc81wl8x/view?usp=drivesdk
 
 ---
 
